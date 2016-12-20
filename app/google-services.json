@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "202598054060",
+    "firebase_url": "https://mivne-d527d.firebaseio.com",
+    "project_id": "mivne-d527d",
+    "storage_bucket": "mivne-d527d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202598054060:android:a09b119a1ca3152f",
+        "android_client_info": {
+          "package_name": "com.example.avinoam.mivne_tohna_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202598054060-djgdppnkl46bo5anena2dkeh4nb0f2ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avinoam.mivne_tohna_2",
+            "certificate_hash": "BFF9DF28D5DE56CE25FE268B50E0BD17304EC2CA"
+          }
+        },
+        {
+          "client_id": "202598054060-9826sobcqv4aji5rur609kfmhn393rae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBysj7OJ3wwux7XjgPgQvjLSGvtcTRTJQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202598054060-9826sobcqv4aji5rur609kfmhn393rae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
